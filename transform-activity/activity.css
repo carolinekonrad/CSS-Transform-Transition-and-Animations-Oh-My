@@ -1,3 +1,4 @@
 main {
-    transform: rotate(0.95turn);
+    transform: skew(-10deg) rotate(-10deg);
+    width: 720px;
 }
